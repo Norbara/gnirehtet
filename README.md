@@ -1,4 +1,4 @@
-# Gnirehtet (v2.5)
+# Gnirehtet (v2.5) 手机通过usb连接电脑网络
 
 This project provides **reverse tethering** over `adb` for Android: it
 allows devices to use the internet connection of the computer they are plugged
